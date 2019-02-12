@@ -10,4 +10,4 @@ Up to version `23.6` the bug is not present and tests run normally.
 
 ### Workaround
 
-Adding `_JB_INTELLIJ_JASMINE_REPORTER_DISABLED=true` as Environmental
+Adding `_JB_INTELLIJ_JASMINE_REPORTER_DISABLED=true` as Environmental variable in the test configuration in Intellij solves the issue.
